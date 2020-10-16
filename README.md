@@ -24,3 +24,4 @@
 		数据：逻辑控制对象__manager
 		行为：显示菜单__display_menu，选择菜单项__select_menu_item，入口逻辑main，
 输入学生__input_students，输出学生__output_students，删除学生__delete_student，修改学生信息__modify_student
+
