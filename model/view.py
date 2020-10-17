@@ -1,5 +1,5 @@
-from model import *
-from controller import *
+from model.controller import *
+from model.model import *
 
 class StudentManagerView():
     """
